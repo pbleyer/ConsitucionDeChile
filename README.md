@@ -2,7 +2,7 @@
 
 Versioned plaintext files from the 1980, 2005 and 2020 editions.
 
-Diff of the original 1980 and latest 2020 version generated with [Winmerge](https://winmerge.org).
+[Diff](https://github.com/pbleyer/ConstitucionDeChile/blob/master/Constitucion%20de%20Chile%20-%20Pinochet%201980%20vs%20Lagos%202020.pdf) of the original 1980 and latest 2020 version generated with [Winmerge](https://winmerge.org).
 
 ## Sources
 
